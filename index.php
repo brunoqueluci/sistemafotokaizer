@@ -1,3 +1,3 @@
-<php?
+<php ?
 
-echo "Página principal teste";
+echo "Página principal teste segundo teste";
