@@ -1,3 +1,3 @@
 <php?
 
-echo "Página principal";
+echo "Página principal teste";
